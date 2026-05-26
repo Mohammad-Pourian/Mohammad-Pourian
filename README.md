@@ -2,7 +2,7 @@
 
 Junior Backend Developer focused on Python and Django, interested in building real-world web applications and backend systems.
 
-Currently working on an educational platform with classroom management, assignments, ticketing, and role-based access management.
+Currently working on a Persian educational platform with classroom management, assignments, submissions, reporting, ticketing, and role-based access management features.
 
 ## Tech Stack
 
@@ -11,18 +11,23 @@ Currently working on an educational platform with classroom management, assignme
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## Current Project
 
 ### Mocode Educational Portal
+
 🌐 https://mocode.ir
+
+🔗 Showcase Repository:
+[View Mocode Showcase](https://github.com/Mohammad-Pourian/mocode-showcase)
 
 - Classroom and session management
 - Assignment and submission system
-- Ticketing system
+- Attendance tracking and grading
+- Ticketing and support system
+- Student and teacher dashboards
 - Role-based access management
-- Responsive RTL interface
+- Responsive Persian RTL interface
 
 ## Currently Learning
 
@@ -33,4 +38,5 @@ Currently working on an educational platform with classroom management, assignme
 ## Contact
 
 - Email: m.pourian126@gmail.com
-- Website: https://mocode.ir
+- GitHub: https://github.com/Mohammad-Pourian
+- LinkedIn: https://linkedin.com/in/mohammad-pourian
